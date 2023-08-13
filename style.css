@@ -1,0 +1,19 @@
+#generated-password {
+  margin: 3%;
+  font-weight: bolder;
+  font-size: larger;
+}
+
+
+body {
+  margin: 5%;
+}
+
+form {
+  background-color: aliceblue;
+  padding: 2%;
+}
+
+form div, button {
+  margin: 1%;
+}
